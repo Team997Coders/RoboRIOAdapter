@@ -1,4 +1,8 @@
-# RoboRio Adapter Board
+<h1><p align="center">RoboRio Adapter Board</p></h1>
+
+<p align="center"><img src="rioAdapter-v0_1.png"></p>
+<p align="center"> Version 0.1 (Shown with NavX2 MXP)</p>
+
 
 Adapter board to bridge the RoboRio's DuPont connectors to JST-XH locking connectors.
 
@@ -8,7 +12,7 @@ If there's any desire whatsoever for a version using a different connector style
 
 Surface-mount LEDs and resistors are completely optional. The board will function fine without them.
 
-3d models included for mechanical fit verification can be quite performance-intensive for KiCad to open on some systems. To speed up your viewing, simply delete them.
+3d models included for mechanical fit verification in KiCad's 3d viewer can be quite performance-intensive for KiCad to open on some systems. To speed up your viewing, simply delete them.
 
 Shared as a KiCad source project. Non-KiCad users can use the included Gerber fabrication outputs.
 
